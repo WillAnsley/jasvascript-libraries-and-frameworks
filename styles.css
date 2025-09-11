@@ -1,0 +1,8 @@
+.maincontainer {
+    background-color:peachpuff;
+}
+
+.col,
+.col-6{
+    border:groove forestgreen 4px;
+}
