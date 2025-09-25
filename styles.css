@@ -4,9 +4,13 @@
   src: url("fonts/curseofthezombie.ttf") format("truetype");
 }
 
-h1{
-  font-family: "Curse of the Zombie";
+.zombie {
+  font-family: "Curse of the Zombie", sans-serif;
 }
+
+/*h1{
+  font-family: "Curse of the Zombie";
+}*/
 
 
 .m-plus-rounded-1c-regular {
